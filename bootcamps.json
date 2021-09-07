@@ -11,7 +11,7 @@
     "type": "Full",
     "language": "English",
     "Notes": "",
-    "URL": "",
+    "URL": "https://www.lewagon.com/web-development-course/full-time",
     "Attachments": ""
   },
   {
@@ -26,7 +26,7 @@
     "type": "Part-time",
     "language": "English,French",
     "Notes": "",
-    "URL": "",
+    "URL": "https://www.lewagon.com/web-development-course/part-time",
     "Attachments": ""
   },
   {
@@ -42,7 +42,7 @@
     "language": "English,French",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "https://www.lewagon.com/data-science-course/part-time"
   },
   {
     "Name": "Ciencia de Datos",
@@ -56,7 +56,7 @@
     "type": "Full",
     "language": "English",
     "Notes": "",
-    "URL": "",
+    "URL": "https://www.lewagon.com/data-science-course/full-time",
     "Attachments": ""
   },
   {
@@ -957,21 +957,6 @@
     "language": "Spanish",
     "Notes": "Lunes – Jueves de 18:30 a 21:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-diseno-ux-ui-y-product-management/",
-    "Attachments": ""
-  },
-  {
-    "Name": "",
-    "Organization": "",
-    "Tech": "",
-    "Tags": "",
-    "Duration (hours)": "",
-    "Duration (weeks)": "",
-    "Location": "",
-    "Price": "",
-    "type": "",
-    "language": "",
-    "Notes": "",
-    "URL": "",
     "Attachments": ""
   }
 ]
