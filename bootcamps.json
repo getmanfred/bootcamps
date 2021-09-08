@@ -1123,5 +1123,20 @@
     "Notes": "Miércoles 19:00 - 22:00 Jueves 19:00 - 22:00",
     "URL": "https://lemoncode.net/bootcamp-backend#bootcamp-backend/banner",
     "Attachments": "01+Bootcamp+Backend+I.pdf (https://dl.airtable.com/.attachments/0751cb7e383ac9fc2aca68e12ab26bf5/93feacb1/01BootcampBackendI.pdf)"
+  },
+  {
+    "Name": "Máster FrontEnd",
+    "Organization": "Lemoncode",
+    "Tech": "React, Angular, Svelte, Vuejs, Flexbox, CSS Grid, Material Design, Jest, Webpack, HTML5,CSS, JavaScript (ES6/ES7), TypeScript, d3js, CSS in JS, Lodash, GraphQL, Blazor, Web Components, socket.io.",
+    "Tags": "frontend",
+    "Duration (hours)": 189,
+    "Duration (weeks)": 25,
+    "Location": "Remote",
+    "Price": 2490,
+    "type": "Part-time",
+    "language": "Spanish",
+    "Notes": "Viernes 19:00 - 22:00 Sábados 10:00 - 13:00, ofertas especiales Early Bird y desempleados",
+    "URL": "https://lemoncode.net/master-frontend#inicio-banner",
+    "Attachments": "Máster+Front+End+Temario+I.pdf (https://static1.squarespace.com/static/56cdb491a3360cdd18de5e16/t/600fcc2582aea9020656b930/1611648038514/01+Master+Frontend+X.pdf)"
   }
 ]
