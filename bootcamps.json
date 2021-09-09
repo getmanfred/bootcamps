@@ -12,7 +12,8 @@
     "language": "English",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Desarrollo Web",
@@ -27,7 +28,8 @@
     "language": "English,French",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Ciencia de datos",
@@ -42,7 +44,8 @@
     "language": "English,French",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Ciencia de Datos",
@@ -57,7 +60,8 @@
     "language": "English",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Data Analytics",
@@ -72,7 +76,8 @@
     "language": "English",
     "Notes": "",
     "URL": "",
-    "Attachments": "Syllabus_Data.pdf (https://dl.airtable.com/.attachments/ccd2942046a77a3b6253e7443f8dfe50/cab864fd/Syllabus_Data.pdf)"
+    "Attachments": "Syllabus_Data.pdf (https://dl.airtable.com/.attachments/ccd2942046a77a3b6253e7443f8dfe50/cab864fd/Syllabus_Data.pdf)",
+    "Attachments url": ""
   },
   {
     "Name": "Ciberseguridad",
@@ -87,7 +92,8 @@
     "language": "English",
     "Notes": "",
     "URL": "",
-    "Attachments": "Syllabus_Cyber.pdf (https://dl.airtable.com/.attachments/ba4164426db13b0a24c967acd1b22551/bf55d89a/Syllabus_Cyber.pdf)"
+    "Attachments": "Syllabus_Cyber.pdf (https://dl.airtable.com/.attachments/ba4164426db13b0a24c967acd1b22551/bf55d89a/Syllabus_Cyber.pdf)",
+    "Attachments url": ""
   },
   {
     "Name": "Desarrollo Web",
@@ -102,7 +108,8 @@
     "language": "English,German",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "UX/UI",
@@ -117,7 +124,8 @@
     "language": "English",
     "Notes": "",
     "URL": "https://www.ironhack.com/es/diseno-ux-ui/remoto",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Full-time Bootcamp",
@@ -132,7 +140,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Curso Part-time",
@@ -147,7 +156,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Desarrollo Web Java",
@@ -162,7 +172,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Análisis de datos & Machine Learning",
@@ -177,7 +188,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Desarrollo Web con Javascript",
@@ -192,7 +204,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://ubiqum.com/es/programs/desarrollo-web-con-javascript/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Full-stack Developer",
@@ -207,7 +220,8 @@
     "language": "Spanish",
     "Notes": "Tienen un modelo que no pagas nada y cuando encuentres trabajo pagas el 10% de tu sueldo hasta pagar todo",
     "URL": "https://4geeksacademy.com/es/coding-bootcamps/full-stack-part-time?location=madrid-spain&utm_source=google&utm_medium=cpc&utm_campaign=10503661130&utm_content=107538582641&utm_term=4geeks%20academy&gclid=CjwKCAjwpMOIBhBAEiwAy5M6YCJZtdE2OElovzvsik57q-pPP5Q-u3g8VNpRqYhx0yJl5rfzTqBUAhoCs-sQAvD_BwE",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Software Engineer",
@@ -222,7 +236,8 @@
     "language": "Spanish",
     "Notes": "Mas avanzado. Es como la segunda parte del bootcamp de Full.stack",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "AI/Machine Learning Engineering",
@@ -237,7 +252,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://4geeksacademy.com/es/coding-bootcamps/curso-inteligencia-artificial",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Programación web",
@@ -252,7 +268,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://www.hackaboss.com/cursos-programacion",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Full Stack Jr - Aprende a programar desde cero",
@@ -267,7 +284,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Desarrollo Web Full Stack",
@@ -282,7 +300,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://keepcoding.io/nuestros-bootcamps/full-stack-web-bootcamp/#1615545527875-a461819e-68f3",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Desarrollo de Apps Móviles",
@@ -297,7 +316,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://keepcoding.io/nuestros-bootcamps/full-stack-mobile-bootcamp/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Big Data, Inteligencia Artificial & Machine Learning",
@@ -312,7 +332,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://keepcoding.io/nuestros-bootcamps/full-stack-big-data-machine-learning-bootcamp/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "DevOps & Cloud Computing",
@@ -327,7 +348,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Ciberseguridad",
@@ -342,7 +364,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://keepcoding.io/nuestros-bootcamps/bootcamp-en-ciberseguridad/#1616512253023-5a2c0fd9-40bb",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Máster Bootcamp en Programación y tecnologías Exponenciales",
@@ -357,7 +380,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Marketing digital y Análisis de Datos",
@@ -372,7 +396,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://keepcoding.io/nuestros-bootcamps/marketing-digital-y-analisis-de-datos/#1614081853633-04631b0b-b027",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "UX/UI Bootcamp",
@@ -387,7 +412,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "UX/UI Bootcamp",
@@ -402,7 +428,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "UX/UI Bootcamp",
@@ -417,7 +444,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "UX/UI Bootcamp",
@@ -432,7 +460,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Desarrollo Android",
@@ -447,7 +476,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://architectcoders.com/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Javascript React",
@@ -462,7 +492,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Desarrollo Web con Java",
@@ -477,7 +508,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Análisis de datos & Machine Learning",
@@ -492,7 +524,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://ubiqum.com/es/programs/data-analytics-y-machine-learning/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Desarrollo Web con Javascript",
@@ -507,7 +540,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://ubiqum.com/es/programs/desarrollo-web-con-javascript/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Ciberseguridad",
@@ -522,7 +556,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": "Folleto Bootcamp CIB 20Jul2021.pdf (https://dl.airtable.com/.attachments/10ebb2ca1092513cec6aeadbf9f065c8/522968f8/FolletoBootcampCIB20Jul2021.pdf)"
+    "Attachments": "Folleto Bootcamp CIB 20Jul2021.pdf (https://dl.airtable.com/.attachments/10ebb2ca1092513cec6aeadbf9f065c8/522968f8/FolletoBootcampCIB20Jul2021.pdf)",
+    "Attachments url": ""
   },
   {
     "Name": "Data Science",
@@ -537,7 +572,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://www.thebridge.tech/bootcamps/bootcamp-data-science",
-    "Attachments": "Folleto Bootcamp DS 20Jul2021.pdf (https://dl.airtable.com/.attachments/df41a9ac20cb0cfcaa5cde931cdecbfd/ae6be5c0/FolletoBootcampDS20Jul2021.pdf)"
+    "Attachments": "Folleto Bootcamp DS 20Jul2021.pdf (https://dl.airtable.com/.attachments/df41a9ac20cb0cfcaa5cde931cdecbfd/ae6be5c0/FolletoBootcampDS20Jul2021.pdf)",
+    "Attachments url": ""
   },
   {
     "Name": "Buenas prácticas",
@@ -552,7 +588,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Desarrollo Web Full-Stack",
@@ -567,7 +604,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": "Folleto Bootcamp FS 20Jul2021.pdf (https://dl.airtable.com/.attachments/d1d34abf9daab97bbd626af07822c6e1/b65f1f30/FolletoBootcampFS20Jul2021.pdf)"
+    "Attachments": "Folleto Bootcamp FS 20Jul2021.pdf (https://dl.airtable.com/.attachments/d1d34abf9daab97bbd626af07822c6e1/b65f1f30/FolletoBootcampFS20Jul2021.pdf)",
+    "Attachments url": ""
   },
   {
     "Name": "Digital Marketing OPS",
@@ -582,7 +620,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": "Folleto Bootcamp MKT 20Jul2021.pdf (https://dl.airtable.com/.attachments/ee3cee43921cc7f48cbccdc6ea078142/ba32cdac/FolletoBootcampMKT20Jul2021.pdf)"
+    "Attachments": "Folleto Bootcamp MKT 20Jul2021.pdf (https://dl.airtable.com/.attachments/ee3cee43921cc7f48cbccdc6ea078142/ba32cdac/FolletoBootcampMKT20Jul2021.pdf)",
+    "Attachments url": ""
   },
   {
     "Name": "UX/UI Product Design",
@@ -597,7 +636,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "",
-    "Attachments": "Folleto Bootcamp UX 20Jul2021.pdf (https://dl.airtable.com/.attachments/152926ba2b764e9d180b5a08f0b43981/3b68c92b/FolletoBootcampUX20Jul2021.pdf)"
+    "Attachments": "Folleto Bootcamp UX 20Jul2021.pdf (https://dl.airtable.com/.attachments/152926ba2b764e9d180b5a08f0b43981/3b68c92b/FolletoBootcampUX20Jul2021.pdf)",
+    "Attachments url": ""
   },
   {
     "Name": "Fullstack Web Developer: Opensource",
@@ -612,7 +652,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://codehouse.academy/bootcamp-fullstack-web-developer-opensource/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Fullstack Web Developer: .Net",
@@ -627,7 +668,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://codehouse.academy/bootcamp-fullstack-web-developer-net/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Desarrollo Web y móvil",
@@ -642,7 +684,8 @@
     "language": "Spanish",
     "Notes": "",
     "URL": "https://www.codenotch.com/bootcamp-desarrollo-web-movil-full-time/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Data Science - Full Time",
@@ -657,7 +700,8 @@
     "language": "Spanish",
     "Notes": "horario 17:00 - 21:00",
     "URL": "https://www.codenotch.com/bootcamp-data-science-full-time/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Data Science - Part Time",
@@ -672,7 +716,8 @@
     "language": "Spanish",
     "Notes": "horario 9:30 - 16:30",
     "URL": "https://www.codenotch.com/bootcamp-data-science-full-time/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "UX/UI Design - Full Time",
@@ -687,7 +732,8 @@
     "language": "Spanish",
     "Notes": "lunes a viernes de 09:00 a 18:00",
     "URL": "https://www.neoland.es/ux-design-bootcamp",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "UX/UI Design - Part Time",
@@ -702,7 +748,8 @@
     "language": "Spanish",
     "Notes": "lunes a viernes de 19:00 a 21:00",
     "URL": "https://www.neoland.es/ux-design-bootcamp",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Full Stack - Full Time",
@@ -717,7 +764,8 @@
     "language": "Spanish",
     "Notes": "horario de lunes a viernes de 09:00 a 18:00",
     "URL": "https://www.neoland.es/full-stack-bootcamp",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Full Stack - Part Time",
@@ -732,7 +780,8 @@
     "language": "Spanish",
     "Notes": "lunes a viernes de 19:00 a 21:00",
     "URL": "https://www.neoland.es/full-stack-part-time-neoland",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Data Science - Full Time",
@@ -747,7 +796,8 @@
     "language": "Spanish",
     "Notes": "horario de lunes a viernes de 09:00 a 18:00",
     "URL": "https://www.neoland.es/data-science-bootcamp",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Data Science - Part Time",
@@ -762,7 +812,8 @@
     "language": "Spanish",
     "Notes": "lunes a viernes de 19:00 a 21:00",
     "URL": "https://www.neoland.es/data-science-part-time-neoland",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Cibersecurity - Full Time",
@@ -777,7 +828,8 @@
     "language": "Spanish",
     "Notes": "horario de lunes a viernes de 09:00 a 18:00",
     "URL": "https://www.neoland.es/cybersecurity-bootcamp",
-    "Attachments": "cybersecurity_bootcamp.pdf (https://dl.airtable.com/.attachments/0a2056aaf283a0867ba3506be3ab8201/a0c6da6a/cybersecurity_bootcamp.pdf)"
+    "Attachments": "cybersecurity_bootcamp.pdf (https://dl.airtable.com/.attachments/0a2056aaf283a0867ba3506be3ab8201/a0c6da6a/cybersecurity_bootcamp.pdf)",
+    "Attachments url": ""
   },
   {
     "Name": "Cibersecurity - Part Time",
@@ -792,7 +844,8 @@
     "language": "Spanish",
     "Notes": "lunes a viernes de 19:00 a 21:00",
     "URL": "https://www.neoland.es/cybersecurity-part-time",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Master in Software Development",
@@ -807,7 +860,8 @@
     "language": "Spanish,English",
     "Notes": "Lun a Vie, 9am a 6pm. Se requieren conocimientos básicos de programación",
     "URL": "https://www.assemblerschool.com/home/full-stack-developer-program",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Adalab",
@@ -822,7 +876,8 @@
     "language": "Spanish",
     "Notes": "Bootcamp para mujeres",
     "URL": "https://adalab.es/cursos-desarrollo-web/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Programación y desarrollo web Full Stack",
@@ -837,7 +892,8 @@
     "language": "Spanish",
     "Notes": "L-J 9:00-18:00 V 9:00-14:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-programacion-y-desarrollo-web-full-stack/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Programación y desarrollo web Full Stack (part-time)",
@@ -852,7 +908,8 @@
     "language": "Spanish",
     "Notes": "Lunes a jueves 18:30-21:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-programacion-y-desarrollo-web-full-stack/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Data Science y Machine Learning",
@@ -867,7 +924,8 @@
     "language": "Spanish",
     "Notes": "L-J 9:00-18:00 V 9:00-14:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-data-science-y-machine-learning/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Data Science y Machine Learning (part-time)",
@@ -882,7 +940,8 @@
     "language": "Spanish",
     "Notes": "Lunes a jueves 18:30-21:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-data-science-y-machine-learning/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Ciberseguridad y Hacking Ético",
@@ -897,7 +956,8 @@
     "language": "Spanish",
     "Notes": "L-J 9:00-18:00 V 9:00-14:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-ciberseguridad-y-hacking-etico/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Ciberseguridad y Hacking Ético (part-time)",
@@ -912,7 +972,8 @@
     "language": "Spanish",
     "Notes": "Lunes a jueves 18:30-21:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-ciberseguridad-y-hacking-etico/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "DevOps",
@@ -927,7 +988,8 @@
     "language": "Spanish",
     "Notes": "Lunes – Jueves de 18:30 a 21:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-devops/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Desarrollo de aplicaciones móviles (iOS, Android)",
@@ -942,7 +1004,8 @@
     "language": "Spanish",
     "Notes": "Lunes – Jueves de 18:30 a 21:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-desarrollo-de-aplicaciones-moviles-ios-android/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Diseño UX/UI y Product Management",
@@ -957,7 +1020,8 @@
     "language": "Spanish",
     "Notes": "Lunes – Jueves de 18:30 a 21:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-diseno-ux-ui-y-product-management/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Full-Stack Developer Bootcamp - Part Time",
@@ -972,7 +1036,8 @@
     "language": "Spanish",
     "Notes": "Martes y Jueves de 18:30 a 22h | Sábados 8:30 a 15h",
     "URL": "https://www.upgrade-hub.com/landing-fullstack/?utm_source=google-search&utm_medium=cpc&utm_campaign=Search_MAD_FSD_Todos_GA-036&pkw=Bootcamp%20programacion&utm_term=Bootcamp%20programacion&matchtype=b&device=c&utm_content=508537898148&placement=&network=g&gclid=Cj0KCQjwm9yJBhDTARIsABKIcGZQHmPx3bbnFnwfEvGZgn8WKaVD1WdSZSB2J1Zy2wMGXXaxX_iqAkcaAjHiEALw_wcB",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Full-Stack Developer Bootcamp - Full Time",
@@ -987,7 +1052,8 @@
     "language": "Spanish",
     "Notes": "Lunes a viernes 9h - 18h",
     "URL": "https://www.upgrade-hub.com/landing-fullstack/?utm_source=google-search&utm_medium=cpc&utm_campaign=Search_MAD_FSD_Todos_GA-036&pkw=Bootcamp%20programacion&utm_term=Bootcamp%20programacion&matchtype=b&device=c&utm_content=508537898148&placement=&network=g&gclid=Cj0KCQjwm9yJBhDTARIsABKIcGZQHmPx3bbnFnwfEvGZgn8WKaVD1WdSZSB2J1Zy2wMGXXaxX_iqAkcaAjHiEALw_wcB",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Ciberseguridad cloud y hacking ético - Part Time",
@@ -1002,7 +1068,8 @@
     "language": "Spanish",
     "Notes": "Lunes, miércoles y viernes de 18:30 a 22h",
     "URL": "https://www.upgrade-hub.com/curso-ciberseguridad-informatica-hacking-part-time/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Ciberseguridad cloud y hacking ético - Full Time",
@@ -1017,7 +1084,8 @@
     "language": "Spanish",
     "Notes": "Lunes a viernes 9h - 18h",
     "URL": "https://www.upgrade-hub.com/curso-ciberseguridad-informatica-hacking-part-time/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Ciencia de datos",
@@ -1032,7 +1100,8 @@
     "language": "English,Spanish",
     "Notes": "",
     "URL": "https://www.ie.edu/exponential-learning/programs/data-science-bootcamp/program/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Ciencia de datos - Part Time",
@@ -1047,7 +1116,8 @@
     "language": "English,Spanish",
     "Notes": "",
     "URL": "https://www.ie.edu/exponential-learning/programs/data-science-bootcamp/program/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Master Front end",
@@ -1062,7 +1132,8 @@
     "language": "Spanish",
     "Notes": "viernes (19:00 - 22:00) y los sábados (10:00 - 13:00)",
     "URL": "https://lemoncode.net/master-frontend#inicio-banner",
-    "Attachments": "01+Master+Frontend+X.pdf (https://dl.airtable.com/.attachments/56e3ba63a96c621f69a293cb8004cd8f/1fc21779/01MasterFrontendX.pdf)"
+    "Attachments": "01+Master+Frontend+X.pdf (https://dl.airtable.com/.attachments/56e3ba63a96c621f69a293cb8004cd8f/1fc21779/01MasterFrontendX.pdf)",
+    "Attachments url": ""
   },
   {
     "Name": "UX/UI Designer - Part Time",
@@ -1077,7 +1148,8 @@
     "language": "Spanish",
     "Notes": "Martes y jueves de 18:30h a 22h Sábados de 8:30h a 15h",
     "URL": "https://www.upgrade-hub.com/curso-diseno-web-ux-ui-full-time/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "UX/UI Designer - Full Time",
@@ -1092,7 +1164,8 @@
     "language": "Spanish",
     "Notes": "Lunes a viernes de 9h a 18h",
     "URL": "https://www.upgrade-hub.com/curso-diseno-web-ux-ui-full-time/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Front-end Developer",
@@ -1107,7 +1180,8 @@
     "language": "Spanish",
     "Notes": "Lunes, miércoles y viernes de 18:30 a 22h",
     "URL": "https://www.upgrade-hub.com/curso-desarrollador-disenador-frontend/",
-    "Attachments": ""
+    "Attachments": "",
+    "Attachments url": ""
   },
   {
     "Name": "Bootcamp Backend",
@@ -1122,6 +1196,39 @@
     "language": "Spanish",
     "Notes": "Miércoles 19:00 - 22:00 Jueves 19:00 - 22:00",
     "URL": "https://lemoncode.net/bootcamp-backend#bootcamp-backend/banner",
-    "Attachments": "01+Bootcamp+Backend+I.pdf (https://dl.airtable.com/.attachments/0751cb7e383ac9fc2aca68e12ab26bf5/93feacb1/01BootcampBackendI.pdf)"
+    "Attachments": "01+Bootcamp+Backend+I.pdf (https://dl.airtable.com/.attachments/0751cb7e383ac9fc2aca68e12ab26bf5/93feacb1/01BootcampBackendI.pdf)",
+    "Attachments url": ""
+  },
+  {
+    "Name": "Máster FrontEnd",
+    "Organization": "Lemoncode",
+    "Tech": "React,Angular,Svelte,Vue,Flexbox,CSS,Material Design,Jest,Webpack,HTML,Javascript,typescript,D3.js,lodash/fp,GraphQL,Blazor,Socket.io,Web Components",
+    "Tags": "Frontend",
+    "Duration (hours)": 189,
+    "Duration (weeks)": 25,
+    "Location": "Remote",
+    "Price": 2490,
+    "type": "Part-time",
+    "language": "Spanish",
+    "Notes": "Viernes 19:00 - 22:00 Sábados 10:00 - 13:00, ofertas especiales Early Bird y desempleados",
+    "URL": "https://lemoncode.net/master-frontend#inicio-banner",
+    "Attachments": "",
+    "Attachments url": "https://static1.squarespace.com/static/56cdb491a3360cdd18de5e16/t/600fcc2582aea9020656b930/1611648038514/01+Master+Frontend+X.pdf"
+  },
+  {
+    "Name": "",
+    "Organization": "",
+    "Tech": "",
+    "Tags": "",
+    "Duration (hours)": "",
+    "Duration (weeks)": "",
+    "Location": "",
+    "Price": "",
+    "type": "",
+    "language": "",
+    "Notes": "",
+    "URL": "",
+    "Attachments": "",
+    "Attachments url": ""
   }
 ]
