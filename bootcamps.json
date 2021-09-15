@@ -1026,7 +1026,7 @@
   {
     "Name": "Full-Stack Developer Bootcamp - Part Time",
     "Organization": "Upgrade HUB",
-    "Tech": "HTML,CSS,Javascript,Node.js,Angular,React",
+    "Tech": "HTML,CSS,Javascript,Node.js,Angular,React,PHP,Symfony",
     "Tags": "Full-stack",
     "Duration (hours)": 320,
     "Duration (weeks)": "",
@@ -1042,7 +1042,7 @@
   {
     "Name": "Full-Stack Developer Bootcamp - Full Time",
     "Organization": "Upgrade HUB",
-    "Tech": "HTML,CSS,Javascript,Node.js,Angular,React",
+    "Tech": "HTML,CSS,Javascript,Node.js,Angular,React,PHP,Symfony",
     "Tags": "Full-stack",
     "Duration (hours)": 320,
     "Duration (weeks)": "",
