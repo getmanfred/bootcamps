@@ -1280,18 +1280,18 @@
     "Attachments url": ""
   },
   {
-    "Name": "",
-    "Organization": "",
-    "Tech": "",
-    "Tags": "",
+    "Name": "Bootcamp de Desarrollo Web, UX y UI",
+    "Organization": "CEI",
+    "Tech": "HTML,CSS,Javascript,JQuery,PHP,SQL,React,Node.js,Angular,MongoDB",
+    "Tags": "Full-stack",
     "Duration (hours)": "",
-    "Duration (weeks)": "",
-    "Location": "",
-    "Price": "",
-    "type": "",
-    "language": "",
+    "Duration (weeks)": 28,
+    "Location": "Madrid,Sevilla",
+    "Price": 3920,
+    "type": "Full",
+    "language": "Spanish",
     "Notes": "",
-    "URL": "",
+    "URL": "https://cei.es/cei-curso/bootcamp-de-desarrollo-web/",
     "Attachments": "",
     "Attachments url": ""
   }
