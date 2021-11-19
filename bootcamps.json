@@ -1519,5 +1519,21 @@
     "URL": "https://cei.es/cei-curso/bootcamp-de-desarrollo-web/",
     "Attachments": "",
     "Attachments url": ""
+  },
+  {
+    "Name": "Desarrollo Web Full-Stack",
+    "Organization": "Peñascal F5",
+    "Tech": "TDD,Clean Code,Python,Flask,Javascript,Vue,HTML,CSS,SQL,NoSql",
+    "Tags": "Full-stack",
+    "Duration (hours)": "1000",
+    "Duration (weeks)": "30",
+    "Location": "Bilbao",
+    "Price": 0,
+    "type": "Full",
+    "language": "Spanish",
+    "Notes": "100% subvencionado",
+    "URL": "https://www.xn--peascalf5-m6a.org/",
+    "Attachments": "",
+    "Attachments url": "https://www.xn--peascalf5-m6a.org/"
   }
 ]
