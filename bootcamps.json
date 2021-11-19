@@ -1522,34 +1522,18 @@
   },
   {
     "Name": "Desarrollo Web Full-Stack",
-    "Organization": "Factoría F5",
-    "Tech": "Python,Flask,HTML,CSS,Javascript,Testing Library,SQL,NoSql",
+    "Organization": "Peñascal F5",
+    "Tech": "TDD,Clean Code,Python,Flask,Javascript,Vue,HTML,CSS,SQL,NoSql",
     "Tags": "Full-stack",
     "Duration (hours)": "1000",
     "Duration (weeks)": "30",
-    "Location": "Madrid,Barcelona,Bilbao,Sevilla,Gijón,Remote",
+    "Location": "Bilbao",
     "Price": 0,
-    "type": "Full,Part-time",
-    "language": "Spanish, English",
+    "type": "Full",
+    "language": "Spanish",
     "Notes": "100% subvencionado",
-    "URL": "https://rompemosloscodigos.factoriaf5.org/",
+    "URL": "https://www.xn--peascalf5-m6a.org/",
     "Attachments": "",
-    "Attachments url": ""
-  },
-  {
-    "Name": "Desarrollo Web",
-    "Organization": "Factoría F5",
-    "Tech": "HTML,CSS,Javascript,",
-    "Tags": "Full-stack",
-    "Duration (hours)": "300",
-    "Duration (weeks)": "10",
-    "Location": "Barcelona",
-    "Price": 0,
-    "type": "Full,Part-time",
-    "language": "Spanish, English",
-    "Notes": "100% subvencionado",
-    "URL": "https://rompemosloscodigos.factoriaf5.org/",
-    "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "https://www.xn--peascalf5-m6a.org/"
   }
 ]
