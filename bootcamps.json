@@ -1519,5 +1519,37 @@
     "URL": "https://cei.es/cei-curso/bootcamp-de-desarrollo-web/",
     "Attachments": "",
     "Attachments url": ""
+  },
+  {
+    "Name": "Desarrollo Web Full-Stack",
+    "Organization": "Factoría F5",
+    "Tech": "Python,Flask,HTML,CSS,Javascript,Testing Library,SQL,NoSql",
+    "Tags": "Full-stack",
+    "Duration (hours)": "1000",
+    "Duration (weeks)": "30",
+    "Location": "Madrid,Barcelona,Bilbao,Sevilla,Gijón,Remote",
+    "Price": 0,
+    "type": "Full,Part-time",
+    "language": "Spanish, English",
+    "Notes": "100% subvencionado",
+    "URL": "https://rompemosloscodigos.factoriaf5.org/",
+    "Attachments": "",
+    "Attachments url": ""
+  },
+  {
+    "Name": "Desarrollo Web",
+    "Organization": "Factoría F5",
+    "Tech": "HTML,CSS,Javascript,",
+    "Tags": "Full-stack",
+    "Duration (hours)": "300",
+    "Duration (weeks)": "10",
+    "Location": "Barcelona",
+    "Price": 0,
+    "type": "Full,Part-time",
+    "language": "Spanish, English",
+    "Notes": "100% subvencionado",
+    "URL": "https://rompemosloscodigos.factoriaf5.org/",
+    "Attachments": "",
+    "Attachments url": ""
   }
 ]
