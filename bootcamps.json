@@ -13,7 +13,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Desarrollo Web",
@@ -29,7 +31,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Ciencia de datos",
@@ -45,7 +49,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Ciencia de Datos",
@@ -61,7 +67,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Data Analytics",
@@ -77,7 +85,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "Syllabus_Data.pdf (https://dl.airtable.com/.attachments/ccd2942046a77a3b6253e7443f8dfe50/cab864fd/Syllabus_Data.pdf)",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Ciberseguridad",
@@ -93,7 +103,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "Syllabus_Cyber.pdf (https://dl.airtable.com/.attachments/ba4164426db13b0a24c967acd1b22551/bf55d89a/Syllabus_Cyber.pdf)",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Desarrollo Web",
@@ -109,7 +121,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "UX/UI",
@@ -125,7 +139,9 @@
     "Notes": "",
     "URL": "https://www.ironhack.com/es/diseno-ux-ui/remoto",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Full-time Bootcamp",
@@ -141,7 +157,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Curso Part-time",
@@ -157,7 +175,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Desarrollo Web Java",
@@ -173,7 +193,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Análisis de datos & Machine Learning",
@@ -189,7 +211,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Desarrollo Web con Javascript",
@@ -205,7 +229,9 @@
     "Notes": "",
     "URL": "https://ubiqum.com/es/programs/desarrollo-web-con-javascript/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Full-stack Developer",
@@ -221,7 +247,9 @@
     "Notes": "Tienen un modelo que no pagas nada y cuando encuentres trabajo pagas el 10% de tu sueldo hasta pagar todo",
     "URL": "https://4geeksacademy.com/es/coding-bootcamps/full-stack-part-time?location=madrid-spain&utm_source=google&utm_medium=cpc&utm_campaign=10503661130&utm_content=107538582641&utm_term=4geeks%20academy&gclid=CjwKCAjwpMOIBhBAEiwAy5M6YCJZtdE2OElovzvsik57q-pPP5Q-u3g8VNpRqYhx0yJl5rfzTqBUAhoCs-sQAvD_BwE",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Software Engineer",
@@ -237,7 +265,9 @@
     "Notes": "Mas avanzado. Es como la segunda parte del bootcamp de Full.stack",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "AI/Machine Learning Engineering",
@@ -253,7 +283,9 @@
     "Notes": "",
     "URL": "https://4geeksacademy.com/es/coding-bootcamps/curso-inteligencia-artificial",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Programación web",
@@ -269,7 +301,9 @@
     "Notes": "",
     "URL": "https://www.hackaboss.com/cursos-programacion",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Full Stack Jr - Aprende a programar desde cero",
@@ -285,7 +319,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Desarrollo Web Full Stack",
@@ -301,7 +337,9 @@
     "Notes": "",
     "URL": "https://keepcoding.io/nuestros-bootcamps/full-stack-web-bootcamp/#1615545527875-a461819e-68f3",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Desarrollo de Apps Móviles",
@@ -317,7 +355,9 @@
     "Notes": "",
     "URL": "https://keepcoding.io/nuestros-bootcamps/full-stack-mobile-bootcamp/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Big Data, Inteligencia Artificial & Machine Learning",
@@ -333,7 +373,9 @@
     "Notes": "",
     "URL": "https://keepcoding.io/nuestros-bootcamps/full-stack-big-data-machine-learning-bootcamp/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "DevOps & Cloud Computing",
@@ -349,7 +391,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Ciberseguridad",
@@ -365,7 +409,9 @@
     "Notes": "",
     "URL": "https://keepcoding.io/nuestros-bootcamps/bootcamp-en-ciberseguridad/#1616512253023-5a2c0fd9-40bb",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Máster Bootcamp en Programación y tecnologías Exponenciales",
@@ -381,7 +427,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Marketing digital y Análisis de Datos",
@@ -397,7 +445,9 @@
     "Notes": "",
     "URL": "https://keepcoding.io/nuestros-bootcamps/marketing-digital-y-analisis-de-datos/#1614081853633-04631b0b-b027",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "UX/UI Bootcamp",
@@ -413,7 +463,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "UX/UI Bootcamp",
@@ -429,7 +481,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "UX/UI Bootcamp",
@@ -445,7 +499,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "UX/UI Bootcamp",
@@ -461,7 +517,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Desarrollo Android",
@@ -477,7 +535,9 @@
     "Notes": "",
     "URL": "https://architectcoders.com/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Javascript React",
@@ -493,7 +553,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Desarrollo Web con Java",
@@ -509,7 +571,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Análisis de datos & Machine Learning",
@@ -525,7 +589,9 @@
     "Notes": "",
     "URL": "https://ubiqum.com/es/programs/data-analytics-y-machine-learning/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Desarrollo Web con Javascript",
@@ -541,7 +607,9 @@
     "Notes": "",
     "URL": "https://ubiqum.com/es/programs/desarrollo-web-con-javascript/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Ciberseguridad",
@@ -557,7 +625,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "Folleto Bootcamp CIB 20Jul2021.pdf (https://dl.airtable.com/.attachments/10ebb2ca1092513cec6aeadbf9f065c8/522968f8/FolletoBootcampCIB20Jul2021.pdf)",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Data Science",
@@ -573,7 +643,9 @@
     "Notes": "",
     "URL": "https://www.thebridge.tech/bootcamps/bootcamp-data-science",
     "Attachments": "Folleto Bootcamp DS 20Jul2021.pdf (https://dl.airtable.com/.attachments/df41a9ac20cb0cfcaa5cde931cdecbfd/ae6be5c0/FolletoBootcampDS20Jul2021.pdf)",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Buenas prácticas",
@@ -589,7 +661,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Desarrollo Web Full-Stack",
@@ -605,7 +679,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "Folleto Bootcamp FS 20Jul2021.pdf (https://dl.airtable.com/.attachments/d1d34abf9daab97bbd626af07822c6e1/b65f1f30/FolletoBootcampFS20Jul2021.pdf)",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Digital Marketing OPS",
@@ -621,7 +697,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "Folleto Bootcamp MKT 20Jul2021.pdf (https://dl.airtable.com/.attachments/ee3cee43921cc7f48cbccdc6ea078142/ba32cdac/FolletoBootcampMKT20Jul2021.pdf)",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "UX/UI Product Design",
@@ -637,7 +715,9 @@
     "Notes": "",
     "URL": "",
     "Attachments": "Folleto Bootcamp UX 20Jul2021.pdf (https://dl.airtable.com/.attachments/152926ba2b764e9d180b5a08f0b43981/3b68c92b/FolletoBootcampUX20Jul2021.pdf)",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Fullstack Web Developer: Opensource",
@@ -653,7 +733,9 @@
     "Notes": "",
     "URL": "https://codehouse.academy/bootcamp-fullstack-web-developer-opensource/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Fullstack Web Developer: .Net",
@@ -669,7 +751,9 @@
     "Notes": "",
     "URL": "https://codehouse.academy/bootcamp-fullstack-web-developer-net/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Desarrollo Web y móvil",
@@ -685,7 +769,9 @@
     "Notes": "",
     "URL": "https://www.codenotch.com/bootcamp-desarrollo-web-movil-full-time/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Data Science - Full Time",
@@ -701,7 +787,9 @@
     "Notes": "horario 17:00 - 21:00",
     "URL": "https://www.codenotch.com/bootcamp-data-science-full-time/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Data Science - Part Time",
@@ -717,7 +805,9 @@
     "Notes": "horario 9:30 - 16:30",
     "URL": "https://www.codenotch.com/bootcamp-data-science-full-time/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "UX/UI Design - Full Time",
@@ -733,7 +823,9 @@
     "Notes": "lunes a viernes de 09:00 a 18:00",
     "URL": "https://www.neoland.es/ux-design-bootcamp",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "UX/UI Design - Part Time",
@@ -749,7 +841,9 @@
     "Notes": "lunes a viernes de 19:00 a 21:00",
     "URL": "https://www.neoland.es/ux-design-bootcamp",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Full Stack - Full Time",
@@ -765,7 +859,9 @@
     "Notes": "horario de lunes a viernes de 09:00 a 18:00",
     "URL": "https://www.neoland.es/full-stack-bootcamp",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Full Stack - Part Time",
@@ -781,7 +877,9 @@
     "Notes": "lunes a viernes de 19:00 a 21:00",
     "URL": "https://www.neoland.es/full-stack-part-time-neoland",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Data Science - Full Time",
@@ -797,7 +895,9 @@
     "Notes": "horario de lunes a viernes de 09:00 a 18:00",
     "URL": "https://www.neoland.es/data-science-bootcamp",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Data Science - Part Time",
@@ -813,7 +913,9 @@
     "Notes": "lunes a viernes de 19:00 a 21:00",
     "URL": "https://www.neoland.es/data-science-part-time-neoland",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Cibersecurity - Full Time",
@@ -829,7 +931,9 @@
     "Notes": "horario de lunes a viernes de 09:00 a 18:00",
     "URL": "https://www.neoland.es/cybersecurity-bootcamp",
     "Attachments": "cybersecurity_bootcamp.pdf (https://dl.airtable.com/.attachments/0a2056aaf283a0867ba3506be3ab8201/a0c6da6a/cybersecurity_bootcamp.pdf)",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Cibersecurity - Part Time",
@@ -845,7 +949,9 @@
     "Notes": "lunes a viernes de 19:00 a 21:00",
     "URL": "https://www.neoland.es/cybersecurity-part-time",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Master in Software Development",
@@ -861,7 +967,9 @@
     "Notes": "Lun a Vie, 9am a 6pm. Se requieren conocimientos básicos de programación",
     "URL": "https://www.assemblerschool.com/home/full-stack-developer-program",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Adalab",
@@ -877,7 +985,9 @@
     "Notes": "Bootcamp para mujeres",
     "URL": "https://adalab.es/cursos-desarrollo-web/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Programación y desarrollo web Full Stack",
@@ -893,7 +1003,9 @@
     "Notes": "L-J 9:00-18:00 V 9:00-14:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-programacion-y-desarrollo-web-full-stack/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Programación y desarrollo web Full Stack (part-time)",
@@ -909,7 +1021,9 @@
     "Notes": "Lunes a jueves 18:30-21:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-programacion-y-desarrollo-web-full-stack/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Data Science y Machine Learning",
@@ -925,7 +1039,9 @@
     "Notes": "L-J 9:00-18:00 V 9:00-14:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-data-science-y-machine-learning/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Data Science y Machine Learning (part-time)",
@@ -941,7 +1057,9 @@
     "Notes": "Lunes a jueves 18:30-21:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-data-science-y-machine-learning/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Ciberseguridad y Hacking Ético",
@@ -957,7 +1075,9 @@
     "Notes": "L-J 9:00-18:00 V 9:00-14:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-ciberseguridad-y-hacking-etico/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Ciberseguridad y Hacking Ético (part-time)",
@@ -973,7 +1093,9 @@
     "Notes": "Lunes a jueves 18:30-21:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-ciberseguridad-y-hacking-etico/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "DevOps",
@@ -989,7 +1111,9 @@
     "Notes": "Lunes – Jueves de 18:30 a 21:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-devops/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Desarrollo de aplicaciones móviles (iOS, Android)",
@@ -1005,7 +1129,9 @@
     "Notes": "Lunes – Jueves de 18:30 a 21:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-desarrollo-de-aplicaciones-moviles-ios-android/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Diseño UX/UI y Product Management",
@@ -1021,7 +1147,9 @@
     "Notes": "Lunes – Jueves de 18:30 a 21:30",
     "URL": "https://iddigitalschool.com/bootcamps/madrid/bootcamp-en-diseno-ux-ui-y-product-management/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Full-Stack Developer Bootcamp - Part Time",
@@ -1037,7 +1165,9 @@
     "Notes": "Martes y Jueves de 18:30 a 22h | Sábados 8:30 a 15h",
     "URL": "https://www.upgrade-hub.com/landing-fullstack/?utm_source=google-search&utm_medium=cpc&utm_campaign=Search_MAD_FSD_Todos_GA-036&pkw=Bootcamp%20programacion&utm_term=Bootcamp%20programacion&matchtype=b&device=c&utm_content=508537898148&placement=&network=g&gclid=Cj0KCQjwm9yJBhDTARIsABKIcGZQHmPx3bbnFnwfEvGZgn8WKaVD1WdSZSB2J1Zy2wMGXXaxX_iqAkcaAjHiEALw_wcB",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Full-Stack Developer Bootcamp - Full Time",
@@ -1053,7 +1183,9 @@
     "Notes": "Lunes a viernes 9h - 18h",
     "URL": "https://www.upgrade-hub.com/landing-fullstack/?utm_source=google-search&utm_medium=cpc&utm_campaign=Search_MAD_FSD_Todos_GA-036&pkw=Bootcamp%20programacion&utm_term=Bootcamp%20programacion&matchtype=b&device=c&utm_content=508537898148&placement=&network=g&gclid=Cj0KCQjwm9yJBhDTARIsABKIcGZQHmPx3bbnFnwfEvGZgn8WKaVD1WdSZSB2J1Zy2wMGXXaxX_iqAkcaAjHiEALw_wcB",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Ciberseguridad cloud y hacking ético - Part Time",
@@ -1069,7 +1201,9 @@
     "Notes": "Lunes, miércoles y viernes de 18:30 a 22h",
     "URL": "https://www.upgrade-hub.com/curso-ciberseguridad-informatica-hacking-part-time/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Ciberseguridad cloud y hacking ético - Full Time",
@@ -1085,7 +1219,9 @@
     "Notes": "Lunes a viernes 9h - 18h",
     "URL": "https://www.upgrade-hub.com/curso-ciberseguridad-informatica-hacking-part-time/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Ciencia de datos",
@@ -1101,7 +1237,9 @@
     "Notes": "",
     "URL": "https://www.ie.edu/exponential-learning/programs/data-science-bootcamp/program/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Ciencia de datos - Part Time",
@@ -1117,7 +1255,9 @@
     "Notes": "",
     "URL": "https://www.ie.edu/exponential-learning/programs/data-science-bootcamp/program/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Master Front end",
@@ -1133,7 +1273,9 @@
     "Notes": "viernes (19:00 - 22:00) y los sábados (10:00 - 13:00)",
     "URL": "https://lemoncode.net/master-frontend#inicio-banner",
     "Attachments": "01+Master+Frontend+X.pdf (https://dl.airtable.com/.attachments/56e3ba63a96c621f69a293cb8004cd8f/1fc21779/01MasterFrontendX.pdf)",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "UX/UI Designer - Part Time",
@@ -1149,7 +1291,9 @@
     "Notes": "Martes y jueves de 18:30h a 22h Sábados de 8:30h a 15h",
     "URL": "https://www.upgrade-hub.com/curso-diseno-web-ux-ui-full-time/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "UX/UI Designer - Full Time",
@@ -1165,7 +1309,9 @@
     "Notes": "Lunes a viernes de 9h a 18h",
     "URL": "https://www.upgrade-hub.com/curso-diseno-web-ux-ui-full-time/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Front-end Developer",
@@ -1181,7 +1327,9 @@
     "Notes": "Lunes, miércoles y viernes de 18:30 a 22h",
     "URL": "https://www.upgrade-hub.com/curso-desarrollador-disenador-frontend/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp Backend",
@@ -1197,7 +1345,9 @@
     "Notes": "Miércoles 19:00 - 22:00 Jueves 19:00 - 22:00",
     "URL": "https://lemoncode.net/bootcamp-backend#bootcamp-backend/banner",
     "Attachments": "01+Bootcamp+Backend+I.pdf (https://dl.airtable.com/.attachments/0751cb7e383ac9fc2aca68e12ab26bf5/93feacb1/01BootcampBackendI.pdf)",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Máster FrontEnd",
@@ -1213,7 +1363,9 @@
     "Notes": "Viernes 19:00 - 22:00 Sábados 10:00 - 13:00, ofertas especiales Early Bird y desempleados",
     "URL": "https://lemoncode.net/master-frontend#inicio-banner",
     "Attachments": "",
-    "Attachments url": "https://static1.squarespace.com/static/56cdb491a3360cdd18de5e16/t/600fcc2582aea9020656b930/1611648038514/01+Master+Frontend+X.pdf"
+    "Attachments url": "https://static1.squarespace.com/static/56cdb491a3360cdd18de5e16/t/600fcc2582aea9020656b930/1611648038514/01+Master+Frontend+X.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp Tech Management & Leadership",
@@ -1229,7 +1381,9 @@
     "Notes": "Viernes 15:00 - 20:00 y Sábados 09:00 - 14:00 | Ofertas Especiales Early Bird",
     "URL": "https://bootcamp.geekshubsacademy.com/online/tech-management-and-leadership/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/04/Syllabus-Bootcamp-Tech-Management-Leadership-Online.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/04/Syllabus-Bootcamp-Tech-Management-Leadership-Online.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp DevOps",
@@ -1245,7 +1399,9 @@
     "Notes": "Viernes 15:00 - 20:00 y Sábados 09:00 - 14:00 | Ofertas Especiales Early Bird",
     "URL": "https://bootcamp.geekshubsacademy.com/online/devops/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/03/Syllabus-Bootcamp-DevOps-Online.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/03/Syllabus-Bootcamp-DevOps-Online.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp Ciberseguridad",
@@ -1261,7 +1417,9 @@
     "Notes": "Viernes 15:00 - 20:00 y Sábados 09:00 - 14:00 | Ofertas Especiales Early Bird",
     "URL": "https://bootcamp.geekshubsacademy.com/online/ciberseguridad/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/09/Syllabus-Bootcamp-Ciberseguridad-Online_.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/09/Syllabus-Bootcamp-Ciberseguridad-Online_.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp Agile Project Management",
@@ -1277,7 +1435,9 @@
     "Notes": "Viernes 15:00 - 20:00 y Sábados 09:00 - 14:00 | Ofertas Especiales Early Bird",
     "URL": "https://bootcamp.geekshubsacademy.com/online/agile-project-management/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2021/01/Syllabus-Bootcamp-Agile-Project-Management-Online-GeeksHubs.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2021/01/Syllabus-Bootcamp-Agile-Project-Management-Online-GeeksHubs.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp End-to-End Product Design",
@@ -1293,7 +1453,9 @@
     "Notes": "Viernes 15:00 - 20:00 y Sábados 09:00 - 14:00 | Ofertas Especiales Early Bird",
     "URL": "https://bootcamp.geekshubsacademy.com/online/product-design/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/09/Syllabus-Bootcamp-End-to-End-Product-Design-Online.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/09/Syllabus-Bootcamp-End-to-End-Product-Design-Online.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp Online Backend Python",
@@ -1309,7 +1471,9 @@
     "Notes": "Tutorias Semanales | Ofertas Especiales Early Bird",
     "URL": "https://bootcamp.geekshubsacademy.com/online/backend-python/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp Online Frontend React",
@@ -1325,7 +1489,9 @@
     "Notes": "Tutorias Semanales | Ofertas Especiales Early Bird",
     "URL": "https://bootcamp.geekshubsacademy.com/online/frontend-react/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp Online Backend Express",
@@ -1341,7 +1507,9 @@
     "Notes": "Tutorias Semanales | Ofertas Especiales Early Bird",
     "URL": "https://bootcamp.geekshubsacademy.com/online/backend-express/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp Online Agile Software",
@@ -1357,7 +1525,9 @@
     "Notes": "Tutorias Semanales | Ofertas Especiales Early Bird",
     "URL": "https://bootcamp.geekshubsacademy.com/online/agile-software/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp Online Fontend Angular",
@@ -1373,7 +1543,9 @@
     "Notes": "Tutorias Semanales | Ofertas Especiales Early Bird",
     "URL": "https://bootcamp.geekshubsacademy.com/online/frontend-angular/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp Online Programación desde Cero",
@@ -1389,7 +1561,9 @@
     "Notes": "Tutorias Semanales | Ofertas Especiales Early Bird",
     "URL": "https://bootcamp.geekshubsacademy.com/online/programacion-desde-cero/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp Online Fontend Vue",
@@ -1405,7 +1579,9 @@
     "Notes": "Tutorias Semanales | Ofertas Especiales Early Bird",
     "URL": "https://bootcamp.geekshubsacademy.com/online/frontend-vue/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp Online Backend .NET",
@@ -1421,7 +1597,9 @@
     "Notes": "Tutorias Semanales | Ofertas Especiales Early Bird",
     "URL": "https://bootcamp.geekshubsacademy.com/online/backend-net/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2020/11/Syllabus-Bootcamps-online-2021.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp Full Stack Developer",
@@ -1437,7 +1615,9 @@
     "Notes": "Empieza a pagar solo cuando encuentres trabajo.",
     "URL": "https://bootcamp.geekshubsacademy.com/full-stack-developer/",
     "Attachments": "Syllabus",
-    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2021/01/Syllabus-Full-Stack-Developer-Presencial-GH-2021.pdf"
+    "Attachments url": "https://bootcamp.geekshubsacademy.com/wp-content/uploads/2021/01/Syllabus-Full-Stack-Developer-Presencial-GH-2021.pdf",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     
@@ -1454,7 +1634,9 @@
     "Notes": "The program runs Monday to Saturday, from 9 am to 9 pm",
     "URL": "https://codeworks.me/software-engineering-bootcamp/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Software Engineering Immersive Remote",
@@ -1470,7 +1652,9 @@
     "Notes": "The program runs Monday to Saturday, from 9 am to 9 pm",
     "URL": "https://codeworks.me/remote/software-engineering-immersive-course-europe/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Web Development Immersive",
@@ -1486,7 +1670,9 @@
     "Notes": "The program runs Monday to Saturday, from 9 am to 9 pm",
     "URL": "https://codeworks.me/web-development-course/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Web Development Immersive Remote",
@@ -1502,7 +1688,9 @@
     "Notes": "This full-time program runs Mon to Sat, 11 hours per day, for students in European, African and Middle Eastern timezones, based around a 9 am CET start.",
     "URL": "https://codeworks.me/remote/web-development-immersive-course-europe/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Bootcamp de Desarrollo Web, UX y UI",
@@ -1518,7 +1706,9 @@
     "Notes": "",
     "URL": "https://cei.es/cei-curso/bootcamp-de-desarrollo-web/",
     "Attachments": "",
-    "Attachments url": ""
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   },
   {
     "Name": "Desarrollo Web Full-Stack",
@@ -1534,6 +1724,170 @@
     "Notes": "100% subvencionado",
     "URL": "https://www.xn--peascalf5-m6a.org/",
     "Attachments": "",
-    "Attachments url": "https://www.xn--peascalf5-m6a.org/"
+    "Attachments url": "https://www.xn--peascalf5-m6a.org/",
+    "Contact": "",
+    "Course-type":"bootcamp"
+  },
+  {
+    "Name": "Taller CSS",
+    "Organization": "Diana Aceves",
+    "Tech": "CSS",
+    "Tags": "",
+    "Duration (hours)": "9",
+    "Duration (weeks)": "",
+    "Location": "",
+    "Price": 0,
+    "type": "",
+    "language": "",
+    "Notes": "Sábados de 10:00 a 14:00\nDías laborables de 18:00 a 21:00",
+    "URL": "https://dianaaceves.notion.site/Taller-CSS-Diana-Aceves-0b6f4a9c833f4ae291e2f4a9719763fc",
+    "Attachments": "",
+    "Attachments url": "",
+    "Contact": "d.aceves@gmail.com",
+    "Course-type":"course"
+  },
+  {
+    "Name": "Engineering Manager",
+    "Organization": "Félix López",
+    "Tech": "People Management",
+    "Tags": "People Management",
+    "Duration (hours)": "10",
+    "Duration (weeks)": "",
+    "Location": "",
+    "Price": 500,
+    "type": "",
+    "language": "",
+    "Notes": "Durante el fin de semana, 5 horas cada día.\nDurante 3 días, 3.5 horas cada día.",
+    "URL": "https://www.notion.so/Taller-de-Engineering-Manager-Online-version-2c39a5aa8e464f68a6a020c473934e76",
+    "Attachments": "",
+    "Attachments url": "",
+    "Contact": "hola@flopezluis.es",
+    "Course-type":"course"
+  },
+  {
+    "Name": "Ecommnocode",
+    "Organization": "Jaime Mesa",
+    "Tech": "nocode, ecommerce",
+    "Tags": "",
+    "Duration (hours)": "6",
+    "Duration (weeks)": "",
+    "Location": "",
+    "Price": 140,
+    "type": "",
+    "language": "",
+    "Notes": "",
+    "URL": "https://ecommnocode.com/",
+    "Attachments": "",
+    "Attachments url": "",
+    "Contact": "jaime@jaimemesa.com",
+    "Course-type":"course"
+  },
+  {
+    "Name": "Tu página en Notion",
+    "Organization": "Elena Madrigal",
+    "Tech": "Notion",
+    "Tags": "Notion",
+    "Duration (hours)": "",
+    "Duration (weeks)": "",
+    "Location": "",
+    "Price": 200,
+    "type": "",
+    "language": "",
+    "Notes": "",
+    "URL": "https://tupaginaennotion.com/el-curso",
+    "Attachments": "",
+    "Attachments url": "",
+    "Contact": "elena@elenamadrigal.com",
+    "Course-type":"course"
+  },
+  {
+    "Name": "Aprende a crear webs con Bubble",
+    "Organization": "Pablo Heredia",
+    "Tech": "Bubble, nocode",
+    "Tags": "Nocode",
+    "Duration (hours)": "",
+    "Duration (weeks)": "",
+    "Location": "",
+    "Price": 149,
+    "type": "",
+    "language": "Spanish",
+    "Notes": "",
+    "URL": "https://pabloheredia.gumroad.com/l/cursobubble",
+    "Attachments": "",
+    "Attachments url": "",
+    "Contact": "pheredia24@gmail.com",
+    "Course-type":"course"
+  },
+  {
+    "Name": "Taller de Web Performance",
+    "Organization": "Joan León",
+    "Tech": "Web performance",
+    "Tags": "Web performance",
+    "Duration (hours)": "18",
+    "Duration (weeks)": "",
+    "Location": "",
+    "Price": 95,
+    "type": "",
+    "language": "",
+    "Notes": "Sábados de 10 a 14h",
+    "URL": "https://nucliweb.net/workshops/web-performance",
+    "Attachments": "",
+    "Attachments url": "",
+    "Contact": "@nucliweb",
+    "Course-type":"course"
+  },
+  {
+    "Name": "Taller de PostCSS",
+    "Organization": "Joan León",
+    "Tech": "PostCSS",
+    "Tags": "PostCSS",
+    "Duration (hours)": "8",
+    "Duration (weeks)": "",
+    "Location": "",
+    "Price": 50,
+    "type": "",
+    "language": "",
+    "Notes": "Sábados de 10 a 14h",
+    "URL": "https://nucliweb.net/workshops/postcss",
+    "Attachments": "",
+    "Attachments url": "",
+    "Contact": "@nucliweb",
+    "Course-type":"course"
+  },
+  {
+    "Name": "Taller de UX Writing y Microcopy  remoto",
+    "Organization": "Eva Janeiro y Clara Sánchez-Puga",
+    "Tech": "UX writing, microcopy",
+    "Tags": "UX",
+    "Duration (hours)": "20",
+    "Duration (weeks)": "",
+    "Location": "",
+    "Price": 500,
+    "type": "",
+    "language": "",
+    "Notes": "Martes, miércoles y jueves de 17 a 20h",
+    "URL": "https://lanavenodriza.com/taller-de-ux-writing/",
+    "Attachments": "",
+    "Attachments url": "",
+    "Contact": "@EvaJaneiroUXW",
+    "Course-type":"course"
+  },
+  {
+    "Name": "Python orientado al análisis de datos",
+    "Organization": "Luz Frías",
+    "Tech": "Python",
+    "Tags": "Data Science",
+    "Duration (hours)": "",
+    "Duration (weeks)": "",
+    "Location": "",
+    "Price": 0,
+    "type": "",
+    "language": "",
+    "Notes": "",
+    "URL": "",
+    "Attachments": "",
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"course"
   }
 ]
