@@ -1889,5 +1889,23 @@
     "Attachments url": "",
     "Contact": "",
     "Course-type":"course"
+  },
+  {
+    "Name": "Optimización de rendimiento web",
+    "Organization": "JS Code Academy",
+    "Tech": "Javascript,HTML,CSS",
+    "Tags": "Web Performance",
+    "Duration (hours)": "6",
+    "Duration (weeks)": "",
+    "Location": "Remote",
+    "Price": 159.99,
+    "type": "Part-time",
+    "language": "Spanish",
+    "Notes": "",
+    "URL": "https://www.jscode.academy/curso-online-rendimiento-web",
+    "Attachments": "",
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"course"
   }
 ]
