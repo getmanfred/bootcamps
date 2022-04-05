@@ -1,6 +1,6 @@
-# bootcamps
+# Bootcamps / Courses and other formatives offers 
 
-Bootcamp & Course recopilation. This database try to recopilate all this course to offer out community a single point of information about it  
+Bootcamp & Courses recopilation. This database try to recopilate all this course to offer out community a single point of information about it  
 
 ## Structure  
 
