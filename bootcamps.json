@@ -1925,5 +1925,24 @@
     "Attachments url": "",
     "Contact": "",
     "Course-type":"course"
-  }
+  },
+  {
+    "Name": "Programación funcional en Kotlin",
+    "Organization": "functionalHub",
+    "Tech": "Kotlin, functional programming, monads",
+    "Tags": "Functional programming",
+    "Duration (hours)": "15",
+    "Duration (weeks)": "",
+    "Location": "Remote",
+    "Price": 500,
+    "type": "Part-time,Full",
+    "language": "Spanish,English",
+    "Notes": "Introducción a los conceptos de la programación funcional, de una forma práctica y entendible para todos: composición funcional, functores, aplicativos, mónadas... cada concepto explicado con un caso de uso práctico e implementado paso a paso",
+    "URL": "https://www.functionalhub.com/bundles/programacion-funcional-kotlin",
+    "Attachments": "",
+    "Attachments url": "",
+    "Contact": "jmnavarro@gmail.com",
+    "Course-type":"course"
+  },
+  
 ]
