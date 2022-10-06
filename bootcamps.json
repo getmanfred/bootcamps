@@ -1943,6 +1943,24 @@
     "Attachments url": "",
     "Contact": "jmnavarro@gmail.com",
     "Course-type":"course"
+  },
+  {
+    "Name": "Desarrollo Web",
+    "Organization": "Open-Bootcamp",
+    "Tech": "HTML,CSS,JavaScript,React,Angular,TypeScript,Java,Python,PHP,Spring,C#,Git,symfony,.NET,SQL,Blazor,Laravel,Django,Dart,Swift",
+    "Tags": "Full-stack,frontend,backend,mobile",
+    "Duration (hours)": "",
+    "Duration (weeks)": "",
+    "Location": "Remote",
+    "Price": 0,
+    "type": "Full",
+    "language": "Spanish",
+    "Notes": "",
+    "URL": "https://open-bootcamp.com",
+    "Attachments": "",
+    "Attachments url": "",
+    "Contact": "",
+    "Course-type":"bootcamp"
   }
   
 ]
